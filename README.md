@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Tezz</h1>
-  <p>I don't know what I'm doing</p>
 
   <a href="https://discord.com/users/357159197885988878">
     <img src="https://img.shields.io/badge/Discord-Tezz-5865F2?logo=discord&logoColor=white" alt="Discord">
